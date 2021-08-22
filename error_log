@@ -1,0 +1,6 @@
+[21-Aug-2021 19:19:46 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/platinu2/app.platinumasset.net/register.php on line 2
+[21-Aug-2021 19:19:46 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/platinu2/app.platinumasset.net/register.php on line 2
+[21-Aug-2021 19:19:46 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/platinu2/app.platinumasset.net/register.php on line 2
+[21-Aug-2021 19:20:48 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/platinu2/app.platinumasset.net/register.php on line 3
+[21-Aug-2021 19:20:48 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/platinu2/app.platinumasset.net/register.php on line 3
+[21-Aug-2021 19:20:48 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/platinu2/app.platinumasset.net/register.php on line 3
